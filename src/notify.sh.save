@@ -1,0 +1,4 @@
+#!/bin/sh;
+	msg='First they ignore you';
+notify-send -i face-cool "Quot" "$msg"; 
+
